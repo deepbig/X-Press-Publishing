@@ -16,6 +16,8 @@ node install
 ```
 npm start
 ```
+4) Lastly, copy the path of the index.html file into your browser to see the front-end!
+
 ** If the index.html does not show up the data, try this:
 ```
 node migration.js
