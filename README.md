@@ -28,4 +28,4 @@ node seed.js
 It will insert the seed data to the database.
 
 ### Codecademy Backend Project
-I took codecademy Backend Project and this is the final project that I create from the course.
+I took codecademy Backend Project and this is the final project that I create during the course.
