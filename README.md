@@ -12,14 +12,15 @@ So, Add authentication process by yourself, or just use it only for your localho
 ```
 node install
 ```
-3) node migration.js (this will create database using sqlite3 --installed by node install command)
-```
-node migration.js
-```
-4) npm start (this command will generate "node server.js", and by defalt, the port is opened with 4000)
+3) npm start (this command will generate "node server.js", and by defalt, the port is opened with 4000)
 ```
 npm start
 ```
+** If the index.html does not show up the data, try this:
+```
+node migration.js
+```
+(this will create database using sqlite3 --installed by node install command)
 
 ## Did you lost your data? Do this command!
 ```
